@@ -17,3 +17,5 @@ social_urls:
   linkedin: "http://uk.linkedin.com/in/mattbiggin"
   github: "https://www.github.com/ultraflynn"
   
+
+theme: jekyll-theme-slate
