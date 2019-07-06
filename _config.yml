@@ -1,21 +1,21 @@
 # Base configs
 baseurl: ""
-url: "http://photography.mattbiggin.co.uk"
+url: "http://mattbiggin.co.uk"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-10211562-7"
 
 # UI configs
-title: "Photography by Matt Biggin"
-subtitle: "Glimpses into my photography journey"
+title: "by Matt Biggin"
+subtitle: "Documentary and Stret Photography"
 author: "Matt Biggin"
-bio: "I'm trying to improve my photography and trying to avoid boring photos. Sometimes I think I succeed"
+bio: "Documentary and Street Photography"
 web_design: "AJ"
 social_urls:
-  twitter: "https://www.twitter.com/mattbiggin"
-  instagram: "https://www.instagram.com/mattbiggin"
-  linkedin: "http://uk.linkedin.com/in/mattbiggin"
-  github: "https://www.github.com/ultraflynn"
+  twitter: "https://twitter.mattbiggin.co.uk"
+  instagram: "https://instagram.mattbiggin.co.uk"
+  linkedin: "https://linkedin.mattbiggin.co.uk"
+  github: "https://github.mattbiggin.co.uk"
   
 
 theme: jekyll-theme-slate
